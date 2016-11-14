@@ -1,0 +1,8 @@
+{
+    index: [
+        {
+            "name": "rapid-prototype-c",
+            "loc": "https://github.com/rusttemplates/rapid-prototype-c.git"
+        }
+    ]
+}
